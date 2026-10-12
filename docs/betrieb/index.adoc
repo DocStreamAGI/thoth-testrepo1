@@ -1,0 +1,5 @@
+= Betrieb
+
+Diese Seite enthält Informationen zum Betrieb der Anwendung.
+
+Siehe auch xref:installation.adoc[Installation].
