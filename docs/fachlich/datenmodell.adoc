@@ -1,0 +1,5 @@
+= Datenmodell
+
+Diese Seite beschreibt beispielhaft das Datenmodell.
+
+Zurück zur xref:../index.adoc[Startseite].
