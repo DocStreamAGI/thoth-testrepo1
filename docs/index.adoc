@@ -1,1 +1,3 @@
+= DocStream Test
 
+Dies ist ein erster Test mit Thoth Biblios.

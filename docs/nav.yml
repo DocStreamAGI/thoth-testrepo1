@@ -1,0 +1,6 @@
+items:
+  - title: Start
+    page: index.adoc
+
+  - title: Technik
+    page: technik.adoc
