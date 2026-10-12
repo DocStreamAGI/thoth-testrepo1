@@ -1,9 +1,9 @@
-= Test Repository 1
+= Migrierte Dokumentation
 
-Dies ist ein Testinhalt aus dem ersten GitHub-Repository.
+Diese Dokumentation simuliert eine bestehende Dokumentationsstruktur.
 
-Änderungstest vom 12.10.2026.
+== Übersicht
 
-Letzte Änderungstestzeile
-
-Dieses Mal mit Bearbeitungslink
+* Betrieb
+* Installation
+* Fachliche Dokumentation
