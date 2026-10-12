@@ -2,5 +2,11 @@ items:
   - title: Start
     page: index.adoc
 
-  - title: Technik
-    page: technik.adoc
+  - title: Betrieb
+    page: betrieb/index.adoc
+
+  - title: Installation
+    page: betrieb/installation.adoc
+
+  - title: Datenmodell
+    page: fachlich/datenmodell.adoc
