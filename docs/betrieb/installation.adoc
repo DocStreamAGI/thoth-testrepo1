@@ -1,0 +1,10 @@
+= Installation
+
+Die Anwendung wird auf einem Server installiert.
+
+== Beispielkonfiguration
+
+[source,sql]
+----
+include::../config/beispiel.sql[]
+----
